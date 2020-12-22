@@ -13,3 +13,5 @@
 ## 2) При открытии AppiumTest.py в "capabilities" необходимо будет изменить путь к приложению ["app" : "C:\\way_to_app"] 
 ## 3) При запуске Appium не забудьте поменять поле "Host" - "0.0.0.0" на "127.0.0.1"
 ## 4) В AndroidStudio в разделе "AVD Manager" создайте "Pixel 2 XL" 
+
+Пример работы скрипта: https://drive.google.com/drive/folders/1GwYbVxnBlpWF1In2EvovlMME9U6tSZg8?usp=sharing
