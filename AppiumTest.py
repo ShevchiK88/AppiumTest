@@ -15,7 +15,7 @@ capabilities = {
     'platformName': 'Android',
     'platformVersion': '11',
     'deviceName': 'Android Emulator',
-    'app': 'C:\\Users\\Vitalii\\PycharmProjects\\AppiumTest\\App\\Romance Fate Stories and Choices_v2.2.9_apkpure.com.apk'
+    'app': 'C:\\Users\\Vitalii\\PycharmProjects\\AppiumTest\\App\\Romance Fate Stories and Choices_v2.2.9_apkpure.com.apk' #way_to_app
 }
 
 #Подключились к эмулятору запустили приложение
